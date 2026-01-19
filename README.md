@@ -4,9 +4,9 @@
 
 Sou desenvolvedor apaixonado por tecnologia, com foco em front e automações, mas sem deixar de lado a parte de backend e infraestrutura. Gosto de criar soluções eficientes, estáveis e bem pensadas, principalmente envolvendo APIs, proxies e ambientes containerizados. Tenho interesse em projetos open-source e estou sempre buscando evoluir tecnicamente.
 
-- 🔭 Atualmente estou trabalhando em **projetos com Node.js, proxies e Docker**
-- 🌱 Estou aprendendo e aprofundando conhecimentos em **arquitetura de sistemas, Bun Runtime, APIs e performance**
-- 👯 Estou aberto para colaborar em **projetos open-source e ferramentas para desenvolvedores**
+- 💻 Atualmente estou trabalhando em **projetos com Node.js, proxies e Docker**
+- 🧠 Estou aprendendo e aprofundando conhecimentos em **arquitetura de sistemas, Bun Runtime, APIs e performance**
+- 🤝 Estou aberto para colaborar em **projetos open-source e ferramentas para desenvolvedores**
 - 💬 Pergunte-me sobre **Node.js, JavaScript, Docker, APIs, proxies e automação**
 - 📫 Como chegar até mim: **pedrofariasx@email.com**
 
