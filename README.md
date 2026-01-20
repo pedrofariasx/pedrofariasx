@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor apaixonado por tecnologia, com foco em front e automações, mas sem deixar de lado a parte de backend e infraestrutura. Gosto de criar soluções eficientes, estáveis e bem pensadas, principalmente envolvendo APIs, proxies e ambientes containerizados. Tenho interesse em projetos open-source e estou sempre buscando evoluir tecnicamente.
+Sou desenvolvedor apaixonado por tecnologia, com foco em frontend e automações, trabalhando também com backend, infraestrutura e integrações. Gosto de criar soluções eficientes, estáveis e bem pensadas, principalmente envolvendo APIs, proxies e ambientes containerizados. Tenho interesse em projetos open-source e estou sempre buscando evoluir tecnicamente.
 
 - 💻 Atualmente estou trabalhando em **projetos com Node.js, proxies e Docker**
 - 🧠 Estou aprendendo e aprofundando conhecimentos em **arquitetura de sistemas, Bun Runtime, APIs e performance**
